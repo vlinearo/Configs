@@ -1,0 +1,32 @@
+theme = "catppuccin_latte"
+
+[editor]
+scrolloff = 3
+middle-click-paste = false
+scroll-lines = 2
+line-number = "relative"
+color-modes = true
+
+[editor.gutters]
+layout = ["spacer", "line-numbers", "spacer", "diff"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
