@@ -1,32 +1,15 @@
 theme = "catppuccin_latte"
 
 [editor]
-scrolloff = 3
+scrolloff = 6
 middle-click-paste = false
 scroll-lines = 2
 line-number = "relative"
-color-modes = true
+bufferline = "multiple"
+text-width = 50
 
 [editor.gutters]
-layout = ["spacer", "line-numbers", "spacer", "diff"]
+layout = ["spacer", "line-numbers", "spacer"]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[editor.soft-wrap]
+enable = true
